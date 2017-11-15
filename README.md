@@ -1,0 +1,2 @@
+# whitepaper
+iMM Coin whitepaper
