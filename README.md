@@ -61,13 +61,13 @@ Yes, change is never easy, but when it comes to change in education system, it i
 
 It’s not about how many people are attending such programs but the way they are conducted. And probably it’s time we bring about this change. Here are things that (through studies and survey that we conduct )seemed so prominent that will improve the online education and training system:
 
->**1. Presentation of courses:** most of the time the online learning takes place through power point presentation, with a dull slide show and even boring explanation. This being the prime cause of students, webinar and councilor are exiting the course halfway or not interested in taking up the class. 
+1. Presentation of courses: Most of the time the online learning takes place through power point presentation, with a dull slide show and even boring explanation. This being the prime cause of students, webinar and councilor are exiting the course halfway or not interested in taking up the class. 
 
->**2. Upto date syllabus/topics:** what is more important in online education format is to provide subjects relevant to present scenarios. Theories and business management can be learned through convention methods. But what’s trending should be focused upon to gain the attention of the learners. 
+2. Upto date syllabus/topics: What is more important in online education format is to provide subjects relevant to present scenarios. Theories and business management can be learned through convention methods. But what’s trending should be focused upon to gain the attention of the learners. 
 
->**3. Flexibility in learning:**  training programs and leanings classes are conducted in a meeting hall within a specified time, posing a big contains to attendees spread geographically. Flexibility is vital to enable learning at own pace, which is the best method to inculcate personal development.
+3. Flexibility in learning: Training programs and leanings classes are conducted in a meeting hall within a specified time, posing a big contains to attendees spread geographically. Flexibility is vital to enable learning at own pace, which is the best method to inculcate personal development.
 
->**4. Precise and Collaborative learning:** what has been missing all this while, is discussion relevant to the topic and concentration on the issue itself. Learning with a team focused on a single notion adds to the productivity.
+4. Precise and Collaborative learning: What has been missing all this while, is discussion relevant to the topic and concentration on the issue itself. Learning with a team focused on a single notion adds to the productivity.
 
 Innovation is the key to development. It’s time we innovate present online education system to incorporate changes that are acceptable and long-lasting. In regard, taking care of the future of online education system, it is impending to make changes that can contribute towards the learner’s development and at the same time improve the learning experience.
 
@@ -196,7 +196,6 @@ The IMM coin has a very futuristic approach and is well planned to become a glob
 *What IMM proposes here is the future of online education system; A medium of interactive online sessions with genuine learning materials and secure payment. Implying, ones any user pays for our online courses using our IMM coins, their information will form part of a blockchain data, and the user can verify it. All information documents flowing will also form part of a blockchain data. Therefore none of the payment will be fake, no incomplete documentation neither bogus online classes. Learners will learn with absolute confidence, and each learning program will build a path that will take this futuristic figure of online education system forward.*
 
 *“Future is nothing, but what we make it today!”*
-
 
 
 
